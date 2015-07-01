@@ -1,0 +1,81 @@
+body {
+    font-size: 16px;
+    width: 360px;
+    margin: 0 auto;
+}
+.sr-only {
+    text-indent: 9999em;
+    overflow: hidden;
+}
+
+
+
+nav {
+    background-color: #acd373;
+    height: 40px;
+    line-height: 40px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.06);
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    margin-top: 8px;
+}
+toggle {
+    background-color: #89a85c;
+    display: inline-block;
+    padding: 0 15px;
+    float: right;
+}
+
+
+
+.intro {
+    color: #f7f7f7;
+    height: 350px;
+    background: #9abd67;
+}
+.intro > div {
+    text-align: center;
+    padding-top: 125px;
+}
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h2 {
+    font-family: 'Droid Serif', serif;
+    font-style: italic;
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 20px;
+}
+.arrow {
+    display: inline-block;
+    margin-top: 57px
+}
+.skyline {
+    align-content: center;
+    width: 360px;
+    height: 44px;
+    display:inline-block;
+    overflow:hidden
+}
+
+.whoweare {
+    background-color: #fff;
+}
+.phone {
+      background-image: url('phone.jpg');
+    backgroud-repeat: no-repeat;
+    background-attachment: fixed;
+    img-position: center;
+}
+.man {
+width: 360px;
+ float: left;
+    margin: 0 0 10px 10px;
+}
